@@ -14,7 +14,7 @@ body {
   border-radius: 15px;
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
   text-align: center;
-  max-width: 400px;
+  max-width: 225px;
   animation: fadeIn 1s ease-out;
 }
 
