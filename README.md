@@ -1,3 +1,3 @@
-# Projets-OpenClassrooms
+# Online-Project-OpenClassrooms
 
-QuickLinks est une page web simple qui offre des redirections vers plusieurs projets de la formation d'OpenClasRooms.
+QuickLinks est une page web simple qui offre des redirections vers plusieurs projets en ligne de la formation d'OpenClasRooms.
